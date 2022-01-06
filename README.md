@@ -7,4 +7,4 @@ Delivery, Dine-out, Pubs, Bars, Drinks,Buffet, Desserts you name it and Bengalur
 
 With such an high number of restaurants. This industry hasn't been saturated yet. And new restaurants are opening every day. However it has become difficult for them to compete with already established restaurants. The key issues that continue to pose a challenge to them include high real estate costs, rising food costs, shortage of quality manpower, fragmented supply chain and over-licensing.
 
-Therefore the main aim of this project is to get some insights on the restaurants in bengaluru, so as to provide some valuable information that might be useful for new restaurants or for people who live in Bangalore
+Therefore the main aim of this project is to get some insights on the restaurants in Bengaluru, so as to provide some valuable information that might be useful for new restaurants or for people who live in the city.
